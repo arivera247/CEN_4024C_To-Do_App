@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         System.out.println("To-Do List");
-        //Outputs "To-Do List" in console, part of initial sample code.
+        //Outputs "To-Do List" in console as the title of the program. Originally part of sample code.
 
         List<String> todoList = new ArrayList<>();
         //Declares `todoList` variable as an ArrayList.
@@ -31,6 +31,8 @@ public class Main {
         }
         //Allows user to view all To-Do list items.
         //Reference [2]
+
+        //FIXME - add standalone methods to add and remove items from todo list.
 
 
     }
