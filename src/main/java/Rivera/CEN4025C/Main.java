@@ -40,6 +40,10 @@ public class Main {
 
 
 /*
+
+GitHub:
+https://github.com/arivera247/CEN_4024C_To-Do_App
+
 References:
 [1] “List Interface in Java with Examples,” GeeksforGeeks, Oct. 27, 2016. https://www.geeksforgeeks.org/list-interface-java-examples/ (accessed Sep. 10, 2023).
 [2] “Java.util.ArrayList.add() Method in Java,” GeeksforGeeks, Sep. 28, 2017. https://www.geeksforgeeks.org/java-util-arraylist-add-method-java/ (accessed Sep. 10, 2023).
